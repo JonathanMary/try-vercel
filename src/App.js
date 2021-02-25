@@ -6,7 +6,7 @@ function App() {
   return (
     <main>
       <h1>HELLO</h1>
-      <p>This website isn't empty.</p>
+      <p>Porfolio under construction.</p>
     </main>
   );
 }
